@@ -1,0 +1,200 @@
+[
+    {
+      "id": 1,
+      "nome": "Ferrari 458",
+      "modelo": "4.5 V8 Italia 2015",
+      "fabricante": "Ferrari",
+      "motorizacao": 4.5,
+      "combustivel": "Gasolina",
+      "potencia": 570,
+      "torque": 55.1,
+      "direcao": "Hidráulica",
+      "freios": "Quatro à disco ventilados",
+      "preco": 1950000.0,
+      "velMaxima": 325,
+      "categoria": "Esportivo",
+      "imagens": [
+        "https://3.bp.blogspot.com/-FFt0wXN0dhI/TgqDzw_TDOI/AAAAAAAAJsY/uD7QDWispBw/s1600/ferrari458.JPG",
+        "https://www.carrobonito.com/wp-content/uploads/2012/05/ferrari1.jpg",
+        "https://abrilvejasp.files.wordpress.com/2016/12/ferrari458-italia1.jpeg?quality=70&strip=info&w=640",
+        "https://3.bp.blogspot.com/_OWAbzfVagFo/S8395Y6KNoI/AAAAAAAAG38/e6CA_pGEkNg/s1600/ferrari458.jpg"
+      ], 
+      "conteudo": "A Ferrari 458 Italia é um modelo esportivo da Ferrari. Suas primeiras fotos foram divulgadas pela Ferrari em 28 de julho de 2009 e será apresentado no Salão do Automóvel de Frankfurt. É o sucessor do Ferrari F430 e em 2015 foi substituído pelo Ferrari 488 GTB, que foi revelado no Salão Internacional do Automóvel de Genebra 2015. "
+    },
+    {
+      "id": 2,
+      "nome": "Fiat Uno",
+      "modelo": "Way 1.0 (Flex) 2020",
+      "fabricante": "Fiat",
+      "motorizacao": 1.0,
+      "combustivel": "Álcool/Gasolina",
+      "potencia": 77,
+      "torque": 10.9,
+      "direcao": "Elétrica",
+      "freios": "Comuns",
+      "preco": 45290.0,
+      "velMaxima": 157,
+      "categoria": "Hatch",
+      "imagens": [
+        "https://www.automaistv.com.br/wp-content/uploads/2019/06/fiat_uno_way_50.jpg",
+        "https://www.automaistv.com.br/wp-content/uploads/2019/06/fiat_uno_way_49.jpg",
+        "https://s2.glbimg.com/sLwvcgrNuK0KinLT3oDPRubqZ0k=/620x413/e.glbimg.com/og/ed/f/original/2017/03/02/4_8NXS0SQ.jpg",
+        "https://www.autoshowcollection.com.br/wp-content/uploads/2019/06/Uno-1024x705.jpg"
+      ],
+      "conteudo": "O Uno é um automóvel compacto fabricado pela Fiat, lançado na Europa em 1983. Foi lançado no Brasil no ano seguinte, e sua nova geração (projetada no Brasil) só foi lançada em 2010, direcionada aos países da América Latina. A versão antiga foi produzida até dezembro de 2013 sendo vendida como Fiat Mille, nome adotado inicialmente em 1990, quando adotou um motor com menos de 1000 cc no Brasil. "
+    },
+    {
+      "id": 3,
+      "nome": "Chevrolet Onix",
+      "modelo": "LT 2020",
+      "fabricante": "Chevrolet",
+      "motorizacao": 1.0,
+      "combustivel": "Álcool/Gasolina",
+      "potencia": 82,
+      "torque": 10.61,
+      "direcao": "Elétrica",
+      "freios": "Comuns",
+      "preco": 52890.0,
+      "velMaxima": 157,
+      "categoria": "Hatch",
+      "imagens": [
+        "https://e.glbimg.com/og/ed/f/original/2016/07/25/chevrolet_onix_prisma_autoesporte_03.jpg",
+        "https://1.bp.blogspot.com/-PZT0M6-w1kE/XXxVp4kezKI/AAAAAAAAW8c/dRjRwL96LhQ3ArRNwWYCZ1vbLJNhqQU0gCLcBGAsYHQ/s1600/Novo%2BOnix%2BPremier%2B%252818%2529.jpg",
+        "https://www.autoo.com.br/fotos/2019/12/960_720/chevrolet_onix_2020_1_05122019_18561_960_720.jpg",
+        "https://s2.glbimg.com/oMo957kn6Peua8-PzfXiEuITik8=/620x413/e.glbimg.com/og/ed/f/original/2019/09/12/dianteira.jpg"
+      ],
+      "conteudo": "A nova geração do Chevrolet Onix apostou em dianteira mais ousada com grade frontal gigantesca integrada visualmente aos faróis. As versões Premier trazem faróis com projetores e LEDs diurnos no para-choque."
+    },
+    {
+      "id": 4,
+      "nome": "Tracker",
+      "modelo": "Modelo 2021",
+      "fabricante": "chevrolet",
+      "motorizacao": 1.0,
+      "combustivel": "Álcool",
+      "potencia": 116,
+      "torque": 16.8,
+      "direcao": "Elétrica",
+      "freios": "Normal",
+      "preco": 82000.0,
+      "velMaxima": 198,
+      "categoria": "SUV",
+      "imagens": [
+        "https://s2.glbimg.com/nn_zB9vArFpXa_RXV9HKRaWHbio=/0x0:1024x684/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/1/0/jSkXBlRhAGUPKeBSQReg/chevrolet-tracker-1.jpg",
+        "https://s2.glbimg.com/YqHKXTfLTQBDUom0zlZUsvDLEC0=/620x413/e.glbimg.com/og/ed/f/original/2019/06/06/tracker_12.jpg",
+        "https://cms.carrera.com.br/public/Carrera_GM/tracker__tracker_premier_i_turbo_2019_da5.jpg",
+        "https://abrilquatrorodas.files.wordpress.com/2019/11/chevrolet-tracker-2020-21.jpg?quality=70&strip=info"
+      ], 
+      "conteudo": "O mundo dos SUVs não para de evoluir. E o Novo Chevrolet Tracker chegou para mudar o jogo: só ele tem 6 airbags de série, Mylink 8¨ de série, Wi-fi nativo e motor turbo de série mais econômico da categoria em todas as versões. Tudo de série."
+    },
+    {
+      "id": 5,
+      "nome": "Citroën C3",
+      "modelo": "2017",
+      "fabricante": "Citroen",
+      "motorizacao": 1.6,
+      "combustivel": "Álcool/Gasolina",
+      "potencia": 122,
+      "torque": 16.4,
+      "direcao": "Elétrica",
+      "freios": "Dois freios à disco ventilados.",
+      "preco": 31859.0,
+      "velMaxima": 199,
+      "categoria": "Hatch",
+      "imagens": [
+        "https://abrilquatrorodas.files.wordpress.com/2016/11/56c3552082bee10ed5027116citroen-c32.jpeg?quality=70&strip=info&w=1024",
+        "https://i.ytimg.com/vi/jj28F2e5EQs/maxresdefault.jpg",
+        "https://s2.glbimg.com/1zXCfW4muCv1rnECWSvLdq4HvsE=/512x320/smart/e.glbimg.com/og/ed/f/original/2016/02/17/citroen-c3-02.jpg",
+        "https://i.pinimg.com/originals/5b/bf/96/5bbf96e9e7f481cbd25a5f00f006c080.jpg"
+      ], 
+      "conteudo": "Na linha 2017, o Citroën C3 passa a incorporar central multimídia com tela sensível ao toque de sete polegadas com função de espelhamento do celular. "
+    },
+    {
+      "id": 6,
+      "nome": "Dodge Ram",
+      "modelo": "Modelo 2018",
+      "fabricante": "dodge",
+      "motorizacao": 6.7,
+      "combustivel": "Diesel",
+      "potencia": 330,
+      "torque": 103.9,
+      "direcao": "Hidráulica",
+      "freios": "Quatro freios à disco ventilados",
+      "preco": 264990.0,
+      "velMaxima": 160,
+      "categoria": "Pickup",
+      "imagens": [
+        "https://http2.mlstatic.com/D_NQ_NP_930232-MLB41186153259_032020-W.jpg",
+        "https://cdn.carsp.com.br/upload/imgcache/d746e2b2b5e97ee70939ce9b14f2c108.jpg",
+        "https://besthqwallpapers.com/Uploads/20-3-2018/44944/thumb2-dodge-ram-1500-2018-exterior-red-suv-front-view.jpg",
+        "https://cdn.iset.io/assets/47318/produtos/15497/rt8897x__6_.jpg"
+      ], 
+      "conteudo": "A RAM possui motor 6.7 turbodiesel com seis cilindros em linha capaz de entregar 330 cv de potência e 104 kgfm de torque graças ao uso de uma turbina de geometria variável (TGV). O câmbio é automático de seis marchas com modo manual operado por uma alavanca na coluna de direção. A tração é traseira, mas pode ser levada às rodas dianteiras por meio de um seletor eletrônico no painel, que ativa também a caixa de redução."
+    },
+    {
+      "id": 7,
+      "nome": "Ford Ka",
+      "modelo": "Modelo 2020",
+      "fabricante": "ford",
+      "motorizacao": 1.0,
+      "combustivel": "Álcool",
+      "potencia": 85,
+      "torque": 10.71,
+      "direcao": "Elétrica",
+      "freios": "Normal",
+      "preco": 45590.0,
+      "velMaxima": 181,
+      "categoria": "Hatch",
+      "imagens": [
+        "https://start.youse.com.br/wp-content/uploads/2018/11/ford-ka-2020.jpg",
+        "https://precoscarros.com.br/wp-content/uploads/2018/11/Novo-Ford-Ka-2020-01.jpg",
+        "https://www.autoshowcollection.com.br/wp-content/uploads/2019/06/KA-20201.jpg",
+        "https://carros.inf.br/wp-content/uploads/2019/06/7oEEJY8A8tINO5gH7sNNP29D-desktop-1280x720.png"
+      ], 
+      "conteudo": "Único modelo de passeio da Ford no Brasil além do esportivo Mustang e do sedã importado Fusion, o Ford Ka é um sobrevivente da estratégia global da marca em privilegiar SUVs e picapes. O Ka é o Ford mais vendido do Brasil e um dos mais comercializados no mundo, onde também adota o nome Figo. A atual terceira geração foi totalmente desenvolvida no Brasil e se tornou global."
+    },
+    {
+      "id": 8,
+      "nome": "Honda Civic",
+      "modelo": "Modelo 2020",
+      "fabricante": "Honda",
+      "motorizacao": 2.0,
+      "combustivel": "Álcool",
+      "potencia": 155,
+      "torque": 19.5,
+      "direcao": "Elétrica",
+      "freios": "Normal",
+      "preco": 97900.0,
+      "velMaxima": 200,
+      "categoria": "Sedan",
+      "imagens": [
+        "https://i.ytimg.com/vi/PRXzB3pYViw/maxresdefault.jpg",
+        "https://cdn.autopapo.com.br/box/uploads/2019/09/16203945/hond-civic-2020-versao-lx-1.jpg",
+        "https://fotos.jornaldocarro.estadao.com.br/uploads/2019/08/21133715/2020-honda-civic-si-coupe-1160x653.jpg",
+        "https://carros2018.com.br/wp-content/uploads/2019/07/1-4-1024x576.jpg"
+      ], 
+      "conteudo": "Primeiro carro da Honda produzido no Brasil e modelo mais vendido da marca ao redor do mundo, o Civic tem importância histórica para a marca. Fabricado em Sumaré há cinco gerações, o Honda Civic revolucionou o mercado em sua décima geração, popularmente conhecida como New Civic, e manteve o perfil ousado nos modelos seguintes. "
+    },
+    {
+      "id": 9,
+      "nome": "Porsche 911",
+      "modelo": "Modelo 2020",
+      "fabricante": "porsche",
+      "motorizacao": 3.0,
+      "combustivel": "Gasolina",
+      "potencia": 385,
+      "torque": 45.9,
+      "direcao": "Elétrica",
+      "freios": "Normal",
+      "preco": 519000.0,
+      "velMaxima": 293,
+      "categoria": "Esportivo",
+      "imagens": [
+        "https://cdn.motor1.com/images/mgl/yKJwK/s3/2020-porsche-911-turbo.jpg",
+        "https://www.actualidadmotor.com/wp-content/uploads/2020/03/porsche-911-turbo-s-2020-frontal-3-4.jpg",
+        "https://4.bp.blogspot.com/-PqIGiQCBry4/W_5GhH49NEI/AAAAAAAAMBQ/axz8aVbSabcoPXmElScHzJFy6sQ3ohRzwCLcBGAs/s1600/Porsche%2B%25282%2529.jpg",
+        "https://images.noticiasautomotivas.com.br/img/f/porsche-911-turbo-s-2020-14.jpg"
+      ], 
+      "conteudo": "O novo 911 é a soma de seus predecessores – e, assim, é retrospectiva e visão de futuro ao mesmo tempo. A silhueta lateral: legendária. O design: atemporal. A tecnologia: inspirada em grandes vitórias automobilísticas, sempre uma ideia à frente dos outros. Com o 911 da 8ª geração, continuamos dirigindo rumo ao futuro."
+    }
+]
